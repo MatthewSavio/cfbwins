@@ -1,3 +1,15 @@
+# open init-cfb-file.txt
+# import (team, cumul-2010-wins, cumul-2010-losses, cumul-2010-ties) for each team
+
+# function CalWinPerc takes the team list as input CFBlist = [team, wins, losses, ties] and returns WinPerc (a float number with 5 decimal places)
+def CalWinPerc(cfblist as list):
+  
+  
+  
+  
+def RoundWinPerc(WinPerc):
+  RoundWinPerc = 
+
 # (notes)
 # take cfbteam as inputs
 # take cfbuntil2010wins as input
